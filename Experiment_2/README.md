@@ -53,7 +53,7 @@ The aim of this experiment is to understand and implement **SQL SELECT queries**
 ![Screenshot 4](./e2.4.png)
 ![Screenshot 5](./e2.5.png)
 ![Screenshot 6](./e2.6.png)
-![Screenshot 7](./e2.png)
+
 
 
 ---
