@@ -54,6 +54,13 @@ The aim of this experiment is to design and implement a **Library Management Sys
 - Referential integrity maintained
 - Role created with controlled access
 - Privileges granted and revoked successfully
+## Screenshots
+
+![Screenshot 1](./scr_1.png)
+![Screenshot 2](./scr2.png)
+![Screenshot 3](./scr4.png)
+![Screenshot 4](./scr5.png)
+![Screenshot 5](./sc3.png)
 
 ---
 
