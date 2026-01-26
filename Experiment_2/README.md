@@ -45,6 +45,17 @@ The aim of this experiment is to understand and implement **SQL SELECT queries**
 - Department-wise average salary
 - Only departments with average salary greater than 30,000
 - Output sorted in descending order of average salary
+## Screenshots
+
+![Screenshot 1](./e2.1.png)
+![Screenshot 2](./e2.2.png)
+![Screenshot 3](./e2.3.png)
+![Screenshot 4](./e2.4.png)
+![Screenshot 5](./e2.5.png)
+![Screenshot 6](./e2.6.png)
+![Screenshot 7](./e2.png)
+
+![LeetCode Screenshot](./exp2_leetcode_175.png)
 
 ---
 
