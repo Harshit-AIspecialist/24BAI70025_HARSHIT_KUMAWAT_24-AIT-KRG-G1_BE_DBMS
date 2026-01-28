@@ -119,6 +119,14 @@ BEGIN
     END IF;
 END $$;
 ```
+## Output Screenshots
+
+### Screenshot 1
+![Output Screenshot 1](e3.1.png)
+
+### Screenshot 2
+![Output Screenshot 2](e3.2.png)
+
 | Section                         | Element                | Value / Description                              | Result / Expected Output        |
 | ------------------------------- | ---------------------- | ------------------------------------------------ | ------------------------------- |
 | **Input (Declaration Section)** | `emp_id` (INT)         | `101`                                            | N/A                             |
