@@ -178,7 +178,6 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('IT IS ' || DAYNAME);  
 END;
 ```
-![Output 1](EXPERIMENT_4/1.png)
 ![Output 2](EXPERIMENT_4/2.png)
 ![Output 3](EXPERIMENT_4/3.png)
 ![Output 4](EXPERIMENT_4/4.png)
