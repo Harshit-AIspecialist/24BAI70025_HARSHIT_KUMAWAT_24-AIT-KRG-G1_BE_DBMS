@@ -181,25 +181,26 @@ END;
 ## 📸 Outputs
 
 ### Output 1
-![Output 1](EXPERIMENT_4/2.png)
+![Output 1](2.png)
 
 ### Output 2
-![Output 2](EXPERIMENT_4/3.png)
+![Output 2](3.png)
 
 ### Output 3
-![Output 3](EXPERIMENT_4/4.png)
+![Output 3](4.png)
 
 ### Output 4
-![Output 4](EXPERIMENT_4/5.png)
+![Output 4](5.png)
 
 ### Output 5
-![Output 5](EXPERIMENT_4/6.png)
+![Output 5](6.png)
 
 ### Output 6
-![Output 6](EXPERIMENT_4/7.png)
+![Output 6](7.png)
 
 ### Output 7
-![Output 7](EXPERIMENT_4/8.png)
+![Output 7](8.png)
+
 
 
 
