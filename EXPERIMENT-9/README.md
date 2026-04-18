@@ -96,7 +96,7 @@ COMMIT;
 
 ### 📷 Output
 
-![Output](/2-5.png)
+![Output](2-5.png)
 
 
 ---
